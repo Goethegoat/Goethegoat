@@ -11,4 +11,4 @@ Then I have advanced knowledge in object and software development (Python, Java,
 
 🛡️ Besides that, I'm training on several languages and in cyber security (Kali Linux). 
 
-📥 If you want to contact me, you can send me a mail at : yann.goetgheluck8@gmail.com
+📥 If you want to contact me, you can send me an mail at : yann.goetgheluck8@gmail.com
